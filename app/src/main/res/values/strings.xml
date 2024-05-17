@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="my_email">Ehwilson.business@gmail.com</string>
+    <string name="my_phone">(616) 214–2827</string>
+    <string name="my_major">Computer Science Major</string>
+    <string name="my_name">Ethan Wilson</string>
+</resources>
